@@ -16,7 +16,11 @@ Based on a [tutorial](https://github.com/araffin/rlss23-dqn-tutorial) by Antonin
 
 09.40 - 10.00: Exercise 3 - Fitted Q Iterations
 
+---
+
 10.00 - 10.20: Break
+
+---
 
 10.20 - 10.35: Setup of [second notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/2_deep_q_network_dqn_components.ipynb), pytorch fundamentals (1/2), Review of DQN
 
@@ -28,8 +32,11 @@ Based on a [tutorial](https://github.com/araffin/rlss23-dqn-tutorial) by Antonin
 
 11.10 - 11.20: Exercise 7 - Collecting transitions
 
+---
 
 11.20 - 11.40: Break
+
+---
 
 11.40 - 11.55: Setup of [third notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/3_deep_q_network_dqn_update.ipynb), pytorch fundamentals (2/2)
 
