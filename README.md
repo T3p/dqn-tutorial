@@ -8,7 +8,7 @@ Based on a [tutorial](https://github.com/araffin/rlss23-dqn-tutorial) by Antonin
 ### 13/02/2026 (09:00 - 13:00), E. Gatti Conference Room
 ## Outline
 
-09.00 - 09.20: Introduction, setup of [first notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/1_fitted_q_iteration_fqi.ipynb), Review of FQI 
+09.00 - 09.20: Introduction, setup of [first notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/1_fitted_q_iteration_fqi.ipynb), introduction to gym, review of FQI 
 
 09.20 - 09.30:  Exercise 1 - Q-Values
 
