@@ -8,44 +8,44 @@ Based on a [tutorial](https://github.com/araffin/rlss23-dqn-tutorial) by Antonin
 ### 13/02/2026 (09:00 - 13:00), E. Gatti Conference Room
 ## Outline
 
-09.00 - 09.10: Introduction, setup of [first notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/1_fitted_q_iteration_fqi.ipynb), introduction to gym
+09.00 - 09.20: Introduction, setup of [first notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/1_fitted_q_iteration_fqi.ipynb), introduction to gym
 
-09.10 - 09.20:  Exercise 0 - Collect data 
+09.20 - 09.30:  Exercise 0 - Collect data 
 
-9.20 - 09.25: Review of FQI
+9.30 - 09.40: Review of FQI
 
-9.25 - 9.35: Exercise 1 - Q values
+9.40 - 9.50: Exercise 1 - Q values
 
-09.35 - 09.45: Exercise 2 - Model evaluation
+09.50 - 10.00: Exercise 2 - Model evaluation
 
-09.45 - 10.05: Exercise 3 - Fitted Q Iterations
-
----
-
-10.05 - 10.20: Break
+10.00 - 10.15: Exercise 3 - Fitted Q Iterations
 
 ---
 
-10.20 - 10.35: Setup of [second notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/2_deep_q_network_dqn_components.ipynb), pytorch fundamentals (1/2), Review of DQN
-
-10.35 - 10.50: Exercise 4 - Replay buffer
-
-10.50 - 11.00: Exercise 5 - Q-Network
-
-11.00 - 11.10: Exercise 6 - Epsilon-gredy
-
-11.10 - 11.20: Exercise 7 - Collecting transitions
+10.15 - 10.35: Break
 
 ---
 
-11.20 - 11.40: Break
+10.35 - 10.50: Setup of [second notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/2_deep_q_network_dqn_components.ipynb), pytorch fundamentals (1/2), Review of DQN
+
+10.50 - 11.05: Exercise 4 - Replay buffer
+
+11.05 - 11.15: Exercise 5 - Q-Network
+
+11.15 - 11.25: Exercise 6 - Epsilon-gredy
+
+11.25 - 11.35: Exercise 7 - Collecting transitions
 
 ---
 
-11.40 - 11.55: Setup of [third notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/3_deep_q_network_dqn_update.ipynb), pytorch fundamentals (2/2)
+11.35 - 11.55: Break
 
-11.55 - 12.15: Exercise 8 - DQN update
+---
 
-12.15- 12.30: Exercise 9 - Training loop
+11.55 - 12.10: Setup of [third notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/3_deep_q_network_dqn_update.ipynb), pytorch fundamentals (2/2)
 
-12.30 - 13.00: Train your agents
+12.10 - 12.25: Exercise 8 - DQN update
+
+12.25- 12.40: Exercise 9 - Training loop
+
+12.40 - 13.00: Train your agents
