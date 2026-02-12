@@ -8,17 +8,21 @@ Based on a [tutorial](https://github.com/araffin/rlss23-dqn-tutorial) by Antonin
 ### 13/02/2026 (09:00 - 13:00), E. Gatti Conference Room
 ## Outline
 
-09.00 - 09.20: Introduction, setup of [first notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/1_fitted_q_iteration_fqi.ipynb), introduction to gym, review of FQI 
+09.00 - 09.10: Introduction, setup of [first notebook](https://github.com/T3p/dqn-tutorial/blob/main/notebooks/1_fitted_q_iteration_fqi.ipynb), introduction to gym
 
-09.20 - 09.30:  Exercise 1 - Q-Values
+09.10 - 09.20:  Exercise 0 - Collect data 
 
-09.30 - 09.40: Exercise 2 - Model evaluation
+9.20 - 09.25: Review of FQI
 
-09.40 - 10.00: Exercise 3 - Fitted Q Iterations
+9.25 - 9.35: Exercise 1 - Q values
+
+09.35 - 09.45: Exercise 2 - Model evaluation
+
+09.45 - 10.05: Exercise 3 - Fitted Q Iterations
 
 ---
 
-10.00 - 10.20: Break
+10.05 - 10.20: Break
 
 ---
 
