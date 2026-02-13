@@ -5,6 +5,8 @@
 
 Based on a [tutorial](https://github.com/araffin/rlss23-dqn-tutorial) by Antonin Raffin for [RLSS 2023](https://rlsummerschool.com/)
 
+SOLUTIONS [HERE](https://github.com/T3p/dqn-tutorial/tree/main/solutions)
+
 ### 13/02/2026 (09:00 - 13:00), E. Gatti Conference Room
 ## Outline
 
